@@ -2,7 +2,13 @@
 Technology:
 > 
 > In case of bitcoin, the mining rewards are reduced by half of current coinbase value every four years ... Whats the purpose of such reduction?
-
+> Limitations of todays public blockchains (used for bitcoin)
+  1. Limited transaction processing capability ... avg 1K txns processed per block every 10 mins ... explain technical background for limiting txns per block.
+  2. Increase in the ledger size over time ... with 1K txns per 10 mins, we have 150GB ledger already ... if the txn speed goes higher ther ledge size increases exponentially ... There are some solutions in the form of using inversible bloom filters for blocks ... block pruning techniques etc to reduce the size of ledgers
+  3. Proof of work burns electricity/power ... alt solutions includes Intel's PoET
+  4. Takes time to bootstrap a new blockchain ... imagine you want to start your own public blockchain
+  5. Privacy issue ... once a public key is mapped to an identity then all the transactions info is available
+  
 Misc:
 1. Bitcoin taxation rules in India?
 2. 
