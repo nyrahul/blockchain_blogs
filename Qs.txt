@@ -16,3 +16,12 @@ Misc:
 Post Ideas:
 1. Programmers as lawyers in future
 2. 
+
+A cryptocurrency needs to have following characteristics:
+Assume that there is a transaction done between alice and bob ... Alice transfers x coins to bob. 
+1. There should be a way to validate this transaction i.e. alice should now contain x coins less and bob's account should reflect x coins more ... In case of a bank transaction, this validity is ensured by the bank. In case of a decentralized currency, everyone other participant in the network should be able to check and validate this transaction ... Now opening the transactions to all the entities results in a security issue ...
+a. can someone change the transaction downline ? 
+b. Can alice refute that such a transaction was ever done ?
+c. Can bob claim that rather than x coins, y coins were credited to his account ?
+How can the system allow everyone in the network access to the transaction but does not allow anyone to change it ?
+Governments and large organizations have access to enormous computing and other resources ... Is it possible to provide tamper-proof ledger which can hold such transactions information and make it infeasible (not impossible) for any government or large organization to not change it ?
