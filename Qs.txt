@@ -1,6 +1,7 @@
 
 Technology:
 > 
+> How is IOTA/Tangle different from Blockchain ? How does consensus work for Tangle?
 > In case of bitcoin, the mining rewards are reduced by half of current coinbase value every four years ... Whats the purpose of such reduction?
 > Limitations of todays public blockchains (used for bitcoin)
   1. Limited transaction processing capability ... avg 1K txns processed per block every 10 mins ... explain technical background for limiting txns per block.
