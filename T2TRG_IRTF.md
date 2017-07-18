@@ -12,7 +12,7 @@ a group of IP addresses to other entities without any centralized control.
 The talk resulted in many counter arguments primarily centered around, "Does this use-case warrants a technology such as blockchain?"
 
 ### Blockchain as an elixir 
-Usually blockchain is thought to be a cool technology and everyone just wants to use it for their purpose. 
+Blockchain is thought to be a cool technology and everyone just wants to use it somehow for their purpose. 
 In the pursuit they forget to answer few fundamental questions:
 
 a. Is there a problem of trust deficit in the use-case which warrants a technology such as blockchain?
