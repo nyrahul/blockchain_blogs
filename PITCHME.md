@@ -1,14 +1,20 @@
 # Blockchain
+A Technical Primer
+- Rahul Jadhav
 
-Distributed Ledger
+---
+## Prerequisites
+- Public Key Cryptography
+- Hash functions (SHA256 in this case)
+- Digital Signatures
+- Distributed P2P networks (Kademlia, Chord..)
 
 ---
 
-### Blockchain Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+## Before we begin
+It's important to understand
+- What's a CryptoCurrency?
+- At what point money became centralized?
 
 ---
 
